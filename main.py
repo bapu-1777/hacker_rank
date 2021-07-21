@@ -48,9 +48,6 @@ class ssl:
             if x == n.data:
                 break
             n = n.next
-        if n is None:
-            print("node is not present")
-        else:
 
 
 ll1=ssl()
